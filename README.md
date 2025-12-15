@@ -1,6 +1,6 @@
 # XMUT-Thesis-LaTeX
 
-## 厦门理工学院硕士学位论文 LaTeX 模板
+## 厦门理工学院（Xiamen University of Technology, XMUT）硕士学位论文 LaTeX 模板
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
