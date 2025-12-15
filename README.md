@@ -148,13 +148,6 @@ latexmk -xelatex paper.tex
 
 本项目采用 [MIT License](LICENSE) 开源许可证。
 
-## 🤝 贡献
-
-欢迎提交 Issue 和 Pull Request 来完善这个模板！
-
-如果你在使用过程中发现问题或有改进建议，请：
-1. 提交 [Issue](https://github.com/weihang-luo/XMUT-Latex-Thesis/issues) 描述问题
-2. Fork 本项目并提交 [Pull Request](https://github.com/weihang-luo/XMUT-Latex-Thesis/pulls)
 
 ## 📄 许可证
 
@@ -163,7 +156,7 @@ latexmk -xelatex paper.tex
 ## 🙏 致谢
 
 - **厦门大学 LaTeX 论文模板** [xmu-thesis-grd](https://github.com/zoam/xmu-thesis-grd) 提供的框架参考
-- 所有为此模板提供建议和反馈的同学
+
 
 ## 📮 联系方式
 
