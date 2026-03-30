@@ -147,7 +147,3 @@ latexmk -xelatex paper.tex
 
 - **厦门大学 LaTeX 论文模板** [xmu-thesis-grd](https://github.com/zoam/xmu-thesis-grd) 提供的框架参考
 
-
----
-
-**⭐ 如果这个模板对你有帮助，欢迎 Star 支持！**
